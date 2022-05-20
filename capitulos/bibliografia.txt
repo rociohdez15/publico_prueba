@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Chacon, S. and Straub, B Pro[D[D[D[D.[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C Pro Git. Apress
-Holaaaaaaaaaaaaaaaaaaaaa :)
+=======
+Scott Chacon and Ben Straub. Pro Git. Apress
+Ryan Hodson. Ry's Git Tutorial. Smashword (2014)
+>>>>>>> bibliografia
